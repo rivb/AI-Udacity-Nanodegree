@@ -16,3 +16,13 @@ Domains : (1-9)
 Constraints : (3 x 3), columns, rows and diagonals can not repeat the number that is set in the box with respect to the domain.
 
 This type of problems are named Constraint Satisfaction Problems ( CSP )
+
+# Constraint Satisfaction Problems using Z3 
+
+In this chapter I learn how to use Z3 solver for the following problems: 
+
+
+ 1.- Cryptarithmetic
+ 2.- Map Coloring
+ 3.- N-Queens 
+ 4.- Revisiting Sudoku 
