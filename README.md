@@ -9,5 +9,7 @@ Normal sudoku it have 3 contraints that consider columns, row and (3 x 3) boxes.
 
 
 Variables : 81 boxes ( 9 x 9 grid )
+
 Domains : (1-9)
+
 Constraints : (3 x 3), columns, rows and diagonals can not repeat the number that is set in the box with respect to the domain.
