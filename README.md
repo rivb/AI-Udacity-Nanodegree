@@ -23,6 +23,9 @@ In this chapter I learn how to use Z3 solver for the following problems:
 
 
  1.- Cryptarithmetic
+ 
  2.- Map Coloring
+ 
  3.- N-Queens 
+ 
  4.- Revisiting Sudoku 
